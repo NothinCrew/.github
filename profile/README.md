@@ -1,5 +1,5 @@
-# THE VS NOTHING CREW
-This is the Github page for The Vs Nothing Crew
+# THE NOTHIN' CREW
+This is the Github page for The Nothin' Crew
 
 If for some reason you don't know what Github is, it's where we are publishing the source code to things such as my project.
 
